@@ -52,8 +52,8 @@ mlb_df
 Read in a SAS file.
 
 ```{r}
-#pulse_df <- read_sas("data/public_pulse_data.sas7bdat")
-#pulse_df
+pulse_df <- read_sas("data/public_pulse_data.sas7bdat")
+pulse_df
 ```
 
 ## Comparison with Base R
